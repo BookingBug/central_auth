@@ -61,6 +61,7 @@ group :development, :test do
   gem 'capistrano3-puma'
   gem 'webmock'
   gem 'guard'
+  gem 'pry-rails'
 end
 
 group :development do
